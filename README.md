@@ -19,11 +19,11 @@ The dataset is organized into **5 main categories**:
 
 ## Features
 
-✅ Provides instant answers to frequently asked questions (FAQs)
-✅ Organized into structured categories for easy navigation
-✅ Uses **retrieval + generative AI hybrid approach** for better accuracy
-✅ Built with a **user-friendly Gradio interface**
-✅ Saves staff time and improves student experience
+1. Provides instant answers to frequently asked questions (FAQs)
+2. Organized into structured categories for easy navigation
+3. Uses **retrieval + generative AI hybrid approach** for better accuracy
+4. Built with a **user-friendly Gradio interface**
+5. Saves staff time and improves student experience
 
 ---
 
@@ -68,7 +68,7 @@ This was my first hands-on experience with RAG, and it gave me a clear understan
 
 ##  Demo
 
-👉 (You can see my demo video)
+👉 (You can see my demo video) - College bot.mp4 
 
 
 ## How to Run in Jupyter Notebook
