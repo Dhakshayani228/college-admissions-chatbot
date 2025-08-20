@@ -1,0 +1,203 @@
+question,answer,intent
+Hello,Hello! Welcome to our college. How can I assist you today?,greeting
+Hi,Hi there! How can I help you?,greeting
+Good morning,Good morning! What would you like to know about our college?,greeting
+Thanks,You're welcome! Glad I could help.,thankyou
+Thank you so much,Anytime! Feel free to ask more questions.,thankyou
+How do I apply?,You can apply online through the official admissions portal.,admissions
+What is the application process?,"Applications are submitted online, then shortlisted for counseling or entrance exam.",admissions
+Where can I submit my application form?,The application form can be submitted via the admissions section of our website.,admissions
+How do I enroll in a course?,"To enroll, complete the online application and pay the application fee.",admissions
+What is the last date for application?,The deadline for applications is June 30th.,admissions
+When does the admission process start?,Admissions open in March every year.,admissions
+Can I apply offline?,"Yes, you may collect and submit the form from the admissions office.",admissions
+Is there an entrance exam for B.Tech?,"Yes, admission is based on performance in the state/national entrance exam.",admissions
+What is the eligibility for B.Tech?,You must pass 12th with PCM subjects and qualify the entrance exam.,admissions
+What is the eligibility for MBA?,You need a bachelor’s degree and a valid score in CAT/MAT/XAT.,admissions
+Do I need an entrance exam for MBA?,"Yes, MBA admission requires a qualifying score in a recognized management entrance test.",admissions
+What documents are required for admission?,"You must submit mark sheets, ID proof, photos, and transfer certificate.",admissions
+Which documents are needed for MBA admission?,"Bachelor’s degree certificate, entrance test scorecard, ID proof, and passport photos.",admissions
+Is there an application fee?,"Yes, the application fee is ₹1000, payable online or at the admissions office.",admissions
+How much is the admission form fee?,The admission form costs ₹1000 for UG and ₹1500 for PG programs.,admissions
+How can I pay the application fee?,"You can pay online via net banking, debit/credit card, or UPI.",admissions
+Can international students apply?,"Yes, international students are welcome and must provide passport and visa details.",admissions
+What is the eligibility for foreign students?,International applicants must have equivalent qualifications and valid visa documents.,admissions
+Can I apply for more than one course?,"Yes, you can apply for multiple courses but must submit separate applications.",admissions
+Is there any reservation policy?,"Yes, reservations follow government norms for SC/ST/OBC and other categories.",admissions
+Does the college offer scholarships at admission?,"Yes, scholarships are available for meritorious and economically weaker students.",admissions
+How do I apply for a scholarship during admission?,You can apply for scholarships through the admissions portal after completing your application.,admissions
+Can I update my application after submission?,"Yes, you can edit certain details before the application deadline.",admissions
+What happens after I apply?,You will receive an acknowledgment email and updates via the portal.,admissions
+How will I know if I am shortlisted?,Shortlisted candidates will receive email notifications and SMS alerts.,admissions
+When will the merit list be released?,The merit list is usually published in July on the website.,admissions
+How is admission confirmed?,Admission is confirmed after document verification and fee payment.,admissions
+Can I defer my admission?,"Yes, you may request admission deferment by writing to the registrar.",admissions
+What if I miss the admission deadline?,"Late applications may be considered with a late fee, subject to availability.",admissions
+Is hostel allotment part of admission?,"Yes, hostel accommodation can be applied during the admission process.",admissions
+Do parents need to be present during admission?,"Parents are not mandatory, but they may accompany students for verification.",admissions
+How do I check my admission status?,You can check your application status through the online portal.,admissions
+What courses are offered?,"We offer B.Tech, B.Com, MBA, MCA, and M.Sc programs.",courses
+Which undergraduate courses are available?,"Undergraduate courses include B.Tech, B.Com, and BBA.",courses
+Which postgraduate courses are available?,"Postgraduate options include MBA, MCA, and M.Sc in Computer Science.",courses
+What is the duration of B.Tech?,"The B.Tech program is 4 years long, divided into 8 semesters.",courses
+How many years is MBA?,MBA is a 2-year full-time program.,courses
+What is the course length of B.Com?,B.Com is a 3-year undergraduate program.,courses
+How long does MCA take to complete?,The MCA program is 3 years in duration.,courses
+What is the syllabus for B.Tech?,"The B.Tech syllabus covers core engineering subjects, electives, and final year projects.",courses
+Can you tell me the B.Com syllabus?,"The B.Com syllabus includes accounting, business law, finance, and economics.",courses
+What subjects are taught in MBA?,"MBA covers management, finance, marketing, operations, and HR specializations.",courses
+What are the subjects in MCA?,"MCA syllabus includes programming, databases, software engineering, and AI.",courses
+What is the fee structure for B.Tech?,"The B.Tech course fee is approx. ₹1,50,000 per year.",courses
+How much does MBA cost?,"The MBA program fee is around ₹1,20,000 per year.",courses
+What is the total fee for B.Com?,"B.Com fee is about ₹45,000 per year.",courses
+What is the MCA course fee?,"MCA fee is approx. ₹80,000 per year.",courses
+Do you offer scholarships for B.Tech students?,"Yes, merit-based and need-based scholarships are available for B.Tech.",courses
+Are there fee concessions for SC/ST students?,"Yes, concessions are provided as per government norms.",courses
+What are the elective options in MBA?,"MBA electives include digital marketing, data analytics, and entrepreneurship.",courses
+What are the specialization options in B.Tech?,"Specializations include Computer Science, Mechanical, Electrical, and Civil.",courses
+Which engineering branches are available?,"We offer CSE, IT, ECE, Mechanical, Civil, and Electrical Engineering.",courses
+Does the college provide evening courses?,"No, all programs are full-time day courses.",courses
+Do you offer part-time courses?,"Currently, we only offer full-time programs.",courses
+What are the college class timings?,"College classes run from 9:00 AM to 4:30 PM, Monday to Saturday.",timings
+What is the daily lecture schedule?,"Each lecture is 50 minutes long, with breaks between sessions.",timings
+Is Saturday a working day?,"Yes, Saturday is a half-day with classes till 1:00 PM.",timings
+Are evening classes available?,"No, we do not conduct evening or weekend classes.",timings
+Do PG classes have separate timings?,"Yes, PG classes usually run from 10:00 AM to 5:00 PM.",timings
+What is the annual academic calendar?,"The academic year begins in July and ends in May, with semester exams twice a year.",timings
+When are semester exams held?,Semester exams are conducted in December and May.,timings
+Do holidays follow government calendar?,"Yes, holidays are observed according to the state government calendar.",timings
+What is the attendance requirement?,Students must maintain at least 75% attendance to appear for exams.,timings
+Are there extra classes for weak students?,"Yes, remedial and doubt-clearing sessions are arranged in the evenings.",timings
+Do you have weekend classes for working students?,"Currently, we don’t offer weekend programs.",timings
+Does the college provide hostel facilities?,"Yes, we have separate hostels for boys and girls with capacity of 500 students.",facilities
+Are hostel rooms available?,"Yes, rooms are available with single, double, and triple sharing options.",facilities
+Does the hostel have Wi-Fi?,"Yes, all hostels have 24x7 Wi-Fi access.",facilities
+Is there a canteen on campus?,"Yes, the campus canteen serves hygienic food and snacks at affordable rates.",facilities
+What food options are available in the canteen?,"The canteen offers South Indian, North Indian, and fast food menus.",facilities
+How many canteens are there?,"There are 2 canteens on campus, one near the library and one in the hostel block.",facilities
+Are there vegetarian and non-vegetarian options?,"Yes, both vegetarian and non-vegetarian meals are served.",facilities
+Does the college have a library?,"Yes, the central library has over 50,000 books and 200+ journals.",facilities
+How many books are in the library?,"The library has more than 50,000 books and digital resources.",facilities
+Are e-books available in the library?,"Yes, digital library access is provided for all students.",facilities
+Are there computer labs on campus?,"Yes, we have 10 computer labs with over 500 systems.",facilities
+Does the college have science laboratories?,"Yes, physics, chemistry, and biology labs are available for practical learning.",facilities
+Are sports facilities available?,"Yes, we provide grounds for cricket, football, basketball, and indoor games.",facilities
+Is there a gym on campus?,"Yes, the campus gym is available with modern equipment.",facilities
+Does the college have medical facilities?,"Yes, a health center with nurse and visiting doctors is available.",facilities
+Are counseling services provided?,"Yes, we provide academic and personal counseling sessions.",facilities
+Is transport available?,"Yes, 20+ college buses cover major city routes.",facilities
+How many buses are available?,We operate 22 buses across nearby towns.,facilities
+Does the college have an auditorium?,"Yes, a 1000-seater auditorium is available for events.",facilities
+How many seminar halls are there?,There are 5 seminar halls equipped with projectors.,facilities
+Who is the principal of the college?,The current principal is Dr. Anil Kumar.,factual
+Who was the principal before Dr. Anil Kumar?,"The former principal was Prof. S. Ramesh, who served till 2019.",factual
+What are the achievements of the college in the last 5 years?,"The college has achieved 95% placement, won 10 university-level awards, and expanded research labs.",factual
+How many students are currently enrolled?,"There are around 4,500 students enrolled across all programs.",factual
+How many faculty members are there?,The college has 250 teaching faculty and 100 non-teaching staff.,factual
+How many classrooms are in the college?,"There are 80 classrooms, all equipped with smart boards.",factual
+How many hostels are there?,There are 4 hostels – 2 for boys and 2 for girls.,factual
+How many years has the college been established?,The college was established in 1998 and has 25+ years of excellence.,factual
+How many placement drives were held in the last 5 years?,More than 200 placement drives were conducted in the past 5 years.,factual
+How many companies visited in the past 5 years?,Over 300 companies have visited the campus in the last 5 years.,factual
+What is the average student intake per year?,"The average intake is around 1,200 students annually.",factual
+How many research papers were published in last 5 years?,Faculty and students have published 150+ research papers in reputed journals.,factual
+Does the college provide counseling services?,"Yes, we provide academic, career, and personal counseling.",student-services
+Is career counseling available?,"Yes, we have a dedicated career guidance and placement cell.",student-services
+Are there mental health services?,"Yes, we provide professional counseling and wellness sessions.",student-services
+Does the college organize mentoring programs?,"Yes, each student is assigned a faculty mentor for guidance.",student-services
+Is transport available for students?,"Yes, we have 20+ buses covering major city routes.",student-services
+Does the college provide bus services?,"Yes, buses are available for students and staff.",student-services
+What are the bus timings?,Buses start from 7 AM and return after classes at 5 PM.,student-services
+Are bus routes fixed?,"Yes, routes cover all major parts of the city.",student-services
+Is there a health center on campus?,"Yes, we have a health center with nurse and visiting doctors.",student-services
+Are medical facilities available?,"Yes, medical support is available 24/7 for hostel students.",student-services
+Does the college provide ambulance service?,"Yes, an ambulance is available for emergencies.",student-services
+Is there support for disabled students?,"Yes, we provide ramps, accessible washrooms, and assistive services.",student-services
+What facilities are available for differently-abled students?,"Accessible classrooms, elevators, and reserved seating are provided.",student-services
+Is there financial aid for students?,"Yes, scholarships and fee concessions are available for eligible students.",student-services
+How can I apply for financial assistance?,You can apply through the scholarship section on the website.,student-services
+Are merit scholarships available?,"Yes, scholarships are provided for top-ranking students.",student-services
+Does the college provide hostels?,"Yes, separate hostels for boys and girls are available.",student-services
+Are there student clubs and associations?,"Yes, we have cultural, sports, and technical clubs.",student-services
+Does the college organize extracurricular activities?,"Yes, events, workshops, and fests are organized regularly.",student-services
+Are sports facilities provided?,"Yes, we provide both indoor and outdoor sports facilities.",student-services
+Is there a grievance redressal system?,"Yes, a grievance cell handles student concerns.",student-services
+How can students give feedback?,Feedback can be given through the online student portal.,student-services
+Are there remedial classes for weak students?,"Yes, remedial and bridge courses are conducted for academic support.",student-services
+Does the college provide internship support?,"Yes, internships are facilitated by the placement cell.",student-services
+Are there language or communication skill classes?,"Yes, English and communication skills classes are available.",student-services
+Is there a student helpline?,"Yes, a 24x7 helpline number is available for student support.",student-services
+How can students contact the admin office?,Students can use the ERP portal or visit the admin office between 9 AM and 5 PM.,student-services
+Are alumni services available?,"Yes, we have an alumni cell that connects students with former graduates.",student-services
+Does the college provide study abroad opportunities?,"Yes, MoUs with international universities provide exchange programs.",student-services
+Are there career development workshops?,"Yes, resume writing, interview prep, and soft-skill workshops are conducted.",student-services
+Does the college provide scholarships for sports students?,"Yes, sports quota scholarships are offered.",student-services
+Are library services part of student support?,"Yes, students get free access to library and digital resources.",student-services
+What is the placement percentage of the college?,Our college maintains an average placement rate of 85–90% every year.,placements
+Who are the top recruiters?,"Top recruiters include TCS, Infosps, Wipro, Accenture, and HCL.",placements
+Which companies visit the campus for placements?,"IT, Core, Banking, and Consulting companies regularly visit our campus.",placements
+What is the highest package offered?,The highest package offered is ₹20 LPA.,placements
+What is the average salary package?,The average salary package is around ₹4.5 LPA.,placements
+Are internships provided?,"Yes, internships are arranged through the placement cell and industry tie-ups.",placements
+Is internship mandatory?,"Yes, internships are part of the academic curriculum for most programs.",placements
+What kind of training is given before placements?,"Soft skills, aptitude tests, technical training, and interview prep are provided.",placements
+Is there any placement training cell?,"Yes, a dedicated Training & Placement Cell supports students.",placements
+Do students get pre-placement offers (PPOs)?,"Yes, many students secure PPOs from their internships.",placements
+What percentage of students get placed in core companies?,Around 40% of engineering students are placed in core companies.,placements
+Do MBA students get placement support?,"Yes, MBA students are placed in top companies in Finance, Marketing, and HR.",placements
+What are the foreign placement opportunities?,Some students are placed abroad through MNC recruiters.,placements
+Are startups invited for campus placements?,"Yes, we collaborate with startups and emerging companies.",placements
+Does the placement cell conduct mock interviews?,"Yes, mock interviews and group discussions are conducted regularly.",placements
+Are students trained in aptitude tests?,"Yes, aptitude and logical reasoning training is provided.",placements
+What industries hire from the college?,"IT, Finance, Manufacturing, Consulting, and Healthcare are key industries.",placements
+Is entrepreneurship support available?,"Yes, we have an Entrepreneurship Development Cell (EDC).",placements
+Are alumni involved in placements?,"Yes, alumni support current students by offering referrals and mentoring.",placements
+Does the college have tie-ups with companies?,"Yes, MoUs with leading industries help with placements and internships.",placements
+Are placement drives organized on campus?,"Yes, annual placement drives and job fairs are conducted.",placements
+What is the placement support for non-technical courses?,Students from commerce and arts also get opportunities in reputed companies.,placements
+How many companies visit each year?,"On average, 150+ companies visit our campus annually.",placements
+Is there a minimum CGPA required for placements?,"Yes, most companies require a minimum CGPA of 6.0 or above.",placements
+Do companies from abroad visit for hiring?,"Occasionally, multinational companies hire for global roles.",placements
+Are part-time job opportunities available through the college?,"The college focuses on full-time placements, but students may get referrals.",placements
+Is there career counseling for students?,"Yes, career guidance is provided along with placement training.",placements
+Are placement opportunities available for diploma students?,"Yes, diploma students also participate in campus placements.",placements
+How early are students prepared for placements?,Training begins from the 2nd year onwards for undergraduates.,placements
+Is there a record of highest packages from past 5 years?,"Yes, records are available with detailed placement reports on the website.",placements
+How do I contact the placement cell?,You can reach them via the Placement Portal or email placement@college.edu.,placements
+Does the college organize industry visits?,"Yes, industry visits and guest lectures are conducted for exposure.",placements
+Are research scholars also given placement support?,"Yes, PhD and research students are guided towards academic and industry jobs.",placements
+Where is the college located?,"The college is located in XYZ City, ABC State.",general
+How can I reach the college?,"The campus is well connected by bus, train, and airport. Shuttle service is also available.",general
+What are the college working hours?,"College timings are 9:00 AM to 4:00 PM, Monday to Saturday.",general
+Is the college open on Saturdays?,"Yes, the college is open on Saturdays till 1:00 PM.",general
+Who is the principal of the college?,The current Principal is Dr. Ramesh Kumar.,general
+How old is the college?,The college was established in 1995 and has 29 years of excellence.,general
+How many students study in the college?,"Over 4,500 students are enrolled across various programs.",general
+How can I contact the college?,You can call +91-1234567890 or email info@college.edu.,general
+What is the official website of the college?,Visit www.college.edu for details.,general
+Does the college provide hostel accommodation?,"Yes, hostel facilities are available for both boys and girls.",hostel
+What is the hostel fee per year?,"Hostel fee is ₹60,000 per year (including food & lodging).",hostel
+Is there a separate hostel for girls?,"Yes, we have separate hostels for boys and girls.",hostel
+Are hostel rooms single or shared?,Both single and shared room options are available.,hostel
+Is food included in hostel fee?,"Yes, hostel fee includes meals provided in the mess.",hostel
+Is hostel accommodation compulsory?,"No, students may choose to stay outside campus.",hostel
+What facilities are available in hostels?,"Hostels provide Wi-Fi, study rooms, laundry, and security.",hostel
+Is there a hostel warden?,"Yes, wardens are available 24/7 for student support.",hostel
+Can parents visit hostel students?,"Yes, parents are allowed during visiting hours.",hostel
+How do I apply for hostel admission?,Hostel admission form is available with the college admission form.,hostel
+Is there an additional caution deposit for hostel?,"Yes, a refundable caution deposit of ₹5,000 is required.",hostel
+What is the transport fee?,"College bus transport fee is ₹20,000 per year.",fees
+Is transport compulsory?,"No, students may use their own transport.",fees
+What is the examination fee?,"Examination fee is ₹2,000 per semester.",fees
+Is library fee included in tuition?,"Yes, library fee is included in tuition.",fees
+What is the caution deposit for college admission?,"A refundable deposit of ₹10,000 is required at admission.",fees
+Are there any lab fees?,"Yes, lab fee of ₹3,000 per year is applicable for science/engineering courses.",fees
+Is there a uniform fee?,"Yes, uniform fee is ₹5,000 at the start of the course.",fees
+Is there a sports fee?,"Yes, sports development fee of ₹1,000 per year is charged.",fees
+Does the college provide scholarships?,"Yes, scholarships are available based on merit and category.",general
+How do I apply for a scholarship?,Scholarship forms are available online at the college portal.,general
+What cultural events are organized?,"Annual Fest, Tech Fest, Sports Meet, and Cultural Night are organized.",general
+Are students allowed to use laptops in class?,"Yes, laptops are allowed for academic purposes.",general
+Does the college have Wi-Fi?,"Yes, free Wi-Fi is available across campus.",general
+Does the college provide medical facilities?,"Yes, we have a 24/7 medical center with a doctor on call.",general
+Is there an alumni association?,"Yes, the college has an active alumni network.",general
